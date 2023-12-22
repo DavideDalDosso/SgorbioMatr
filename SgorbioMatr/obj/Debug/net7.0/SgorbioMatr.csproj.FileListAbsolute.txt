@@ -1,0 +1,15 @@
+C:\Users\david\source\repos\Consolegeddon\SgorbioMatr\SgorbioMatr\bin\Debug\net7.0\SgorbioMatr.exe
+C:\Users\david\source\repos\Consolegeddon\SgorbioMatr\SgorbioMatr\bin\Debug\net7.0\SgorbioMatr.deps.json
+C:\Users\david\source\repos\Consolegeddon\SgorbioMatr\SgorbioMatr\bin\Debug\net7.0\SgorbioMatr.runtimeconfig.json
+C:\Users\david\source\repos\Consolegeddon\SgorbioMatr\SgorbioMatr\bin\Debug\net7.0\SgorbioMatr.dll
+C:\Users\david\source\repos\Consolegeddon\SgorbioMatr\SgorbioMatr\bin\Debug\net7.0\SgorbioMatr.pdb
+C:\Users\david\source\repos\Consolegeddon\SgorbioMatr\SgorbioMatr\obj\Debug\net7.0\SgorbioMatr.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\Consolegeddon\SgorbioMatr\SgorbioMatr\obj\Debug\net7.0\SgorbioMatr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\Consolegeddon\SgorbioMatr\SgorbioMatr\obj\Debug\net7.0\SgorbioMatr.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\Consolegeddon\SgorbioMatr\SgorbioMatr\obj\Debug\net7.0\SgorbioMatr.AssemblyInfo.cs
+C:\Users\david\source\repos\Consolegeddon\SgorbioMatr\SgorbioMatr\obj\Debug\net7.0\SgorbioMatr.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Consolegeddon\SgorbioMatr\SgorbioMatr\obj\Debug\net7.0\SgorbioMatr.dll
+C:\Users\david\source\repos\Consolegeddon\SgorbioMatr\SgorbioMatr\obj\Debug\net7.0\refint\SgorbioMatr.dll
+C:\Users\david\source\repos\Consolegeddon\SgorbioMatr\SgorbioMatr\obj\Debug\net7.0\SgorbioMatr.pdb
+C:\Users\david\source\repos\Consolegeddon\SgorbioMatr\SgorbioMatr\obj\Debug\net7.0\SgorbioMatr.genruntimeconfig.cache
+C:\Users\david\source\repos\Consolegeddon\SgorbioMatr\SgorbioMatr\obj\Debug\net7.0\ref\SgorbioMatr.dll
